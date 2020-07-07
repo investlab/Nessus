@@ -7,3 +7,7 @@
 
 # Run image to container:
 - docker run -it --name nessus1 -p 8834:8834 -d nessus:v1
+
+# Run Nessus
+- Browser: https://ip.ip.ip.ip:8834/#/
+- Select: Essential
